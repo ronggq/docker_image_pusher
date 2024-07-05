@@ -4,3 +4,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine
+amilys/embyserver:4.8.0.56
+ailg/alist
+ailg/ggbond:latest
+jellyfin/jellyfin:10.9.6
+nyanmisaka/jellyfin:240220-amd64-legacy
+nyanmisaka/jellyfin:latest
